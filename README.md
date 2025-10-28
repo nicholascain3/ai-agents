@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Nicholas Cain  
 
 **Senior Technical Manager | AI Builder | Product Delivery Leader**  
-📍 Based in South Africa | 🌐 [LinkedIn](https://www.linkedin.com/in/nicholascain)  
+📍 Based in South Africa | 🌐 [LinkedIn](https://www.linkedin.com/in/cainnicholas)  
 
 ---
 
@@ -65,7 +65,7 @@ My passion lies in building **AI agents that simplify complex work**—turning m
 ### 📫 Let’s Connect  
 
 If you’re building practical AI systems, workflow automations, or data-driven products, I’d love to collaborate.  
-Reach out via [LinkedIn](https://www.linkedin.com/in/nicholascain) or open an issue/discussion on this repository.  
+Reach out via [LinkedIn](https://www.linkedin.com/in/cainnicholas) or open an issue/discussion on this repository.  
 
 ---
 
